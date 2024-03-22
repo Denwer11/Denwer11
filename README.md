@@ -6,7 +6,7 @@ A passionate frontend developer from Russia
 
 * 🌍  I'm based in St. Petersburg
 * ✉️  You can contact me at [denwer0204@gmail.com](mailto:denwer0204@gmail.com)
-* 🧠  I'm learning React, Redux, Next
+* 🧠  I'm learning React JS, Redux Toolkit, Next.js, Node.js
 
 ### Skills
 
